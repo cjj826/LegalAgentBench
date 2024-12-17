@@ -2,7 +2,7 @@ import sys, os
 sys.path.append('..')
 root  = '../root/'
 
-from agents import ReactAgent, ReflexionStrategy
+from agents import ReactAgent
 import globals
 
 strategy: ReflexionStrategy = ReflexionStrategy.NONE
