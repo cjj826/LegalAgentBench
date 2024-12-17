@@ -13,10 +13,6 @@ Therefore, we propose **LegalAgentBench**, a comprehensive benchmark specificall
 
 LegalAgentBench includes 17 corpora from real-world legal scenarios and provides 37 tools for interacting with external knowledge. We designed a scalable task construction framework and carefully annotated 300 tasks. These tasks span various types, including multi-hop reasoning and writing, and range across different difficulty levels, effectively reflecting the complexity of real-world legal scenarios. 
 
-# ⚡️ Update
-
-🔥🔥 News: 2024/12/17: We released the first version of the [full paper](xxx).
-
 ## 🧩 Characteristic
 
 - **Focus on Authentic Legal Scenarios:** LegalAgentBench is the first dataset to evaluate LLM agents in legal scenarios. It requires LLMs to demonstrate a solid understanding of legal principles, enabling them to appropriately select and utilize tools to solve complex legal problems. This represents a significant step forward in advancing the application of LLM agents in legal scenarios.
