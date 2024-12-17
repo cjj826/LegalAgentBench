@@ -53,4 +53,4 @@ pip install -r requirements.txt
 cd src
 python react.py
 ```
-❗️ Important: Replace the string your_api_key in utils.py with the actual key.
+❗️ Important: Replace the string `your_api_key` in `utils.py` with the actual key.
