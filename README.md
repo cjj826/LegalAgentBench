@@ -46,7 +46,7 @@ LegalAgentBench/
 
 ## ⚙️ Quick Start
 ```python
-git clone https://github.com/CSHaitao/LegalAgentBench.git
+git clone git@github.com:cjj826/LegalAgentBench.git
 cd LegalAgentBench
 pip install -r requirements.txt
 
